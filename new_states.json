@@ -1,0 +1,60 @@
+{
+  "states": [
+    {
+      "name": "Bihar",
+      "capital": "Patna"
+    },
+    {
+      "name": "West Bengal",
+      "capital": "Kolkata"
+    },
+    {
+      "name": "Delhi",
+      "capital": "New Delhi"
+    },
+    {
+      "name": "Karnataka",
+      "capital": "Bengaluru"
+    },
+    {
+      "name": "Maharashtra",
+      "capital": "Mumbai"
+    },
+    {
+      "name": "Tamil Nadu",
+      "capital": "Chennai"
+    },
+    {
+      "name": "Gujarat",
+      "capital": "Gandhinagar"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "capital": "Lucknow"
+    },
+    {
+      "name": "Rajasthan",
+      "capital": "Jaipur"
+    },
+    {
+      "name": "Punjab",
+      "capital": "Chandigarh"
+    },
+    {
+      "name": "Haryana",
+      "capital": "Chandigarh"
+    },
+    {
+      "name": "Kerala",
+      "capital": "Thiruvananthapuram"
+    },
+    {
+      "name": "Telangana",
+      "capital": "Hyderabad"
+    },
+    {
+      "name": "Odisha",
+      "capital": "Bhubaneswar"
+    }
+  ]
+}

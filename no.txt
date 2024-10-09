@@ -1,0 +1,6 @@
+states1 = West Bengal
+states2 = Bihar
+states3 = Uttar Pradesh
+states4 = Andaman Nicobar
+states5 = Tamil Nadu
+ 

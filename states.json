@@ -1,0 +1,74 @@
+{
+    "states": [
+        {
+            "name": "Bihar",
+            "capital": "Patna",
+            "area_code": ["800001", "800002", "800003", "800004"]
+        },
+        {
+            "name": "West Bengal",
+            "capital": "Kolkata",
+            "area_code": ["700001", "700002", "700003", "700004"]
+        },
+        {
+            "name": "Delhi",
+            "capital": "New Delhi",
+            "area_code": ["110001", "110002", "110003", "110004"]
+        },
+        {
+            "name": "Karnataka",
+            "capital": "Bengaluru",
+            "area_code": ["560001", "560002", "560003", "560004"]
+        },
+        {
+            "name": "Maharashtra",
+            "capital": "Mumbai",
+            "area_code": ["400001", "400002", "400003", "400004"]
+        },
+        {
+            "name": "Tamil Nadu",
+            "capital": "Chennai",
+            "area_code": ["600001", "600002", "600003", "600004"]
+        },
+        {
+            "name": "Gujarat",
+            "capital": "Gandhinagar",
+            "area_code": ["382001", "382002", "382003", "382004"]
+        },
+        {
+            "name": "Uttar Pradesh",
+            "capital": "Lucknow",
+            "area_code": ["226001", "226002", "226003", "226004"]
+        },
+        {
+            "name": "Rajasthan",
+            "capital": "Jaipur",
+            "area_code": ["302001", "302002", "302003", "302004"]
+        },
+        {
+            "name": "Punjab",
+            "capital": "Chandigarh",
+            "area_code": ["160001", "160002", "160003", "160004"]
+        },
+        {
+            "name": "Haryana",
+            "capital": "Chandigarh",
+            "area_code": ["134001", "134002", "134003", "134004"]
+        },
+        {
+            "name": "Kerala",
+            "capital": "Thiruvananthapuram",
+            "area_code": ["695001", "695002", "695003", "695004"]
+        },
+        {
+            "name": "Telangana",
+            "capital": "Hyderabad",
+            "area_code": ["500001", "500002", "500003", "500004"]
+        },
+        {
+            "name": "Odisha",
+            "capital": "Bhubaneswar",
+            "area_code": ["751001", "751002", "751003", "751004"]
+        }
+    ]
+}
